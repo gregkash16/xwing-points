@@ -101,21 +101,21 @@ def main(revision):
         upgradedb,
         revision,
         {
-            "effective_date": "2024-09-26",
-            "format": "September 2024 update",
+            "effective_date": "2025-03-26",
+            "format": "March 2025 update",
             "author": "X2PO",
             "subject": "The X-Wing 2.0 Legacy regular points update",
             "files": {
-                "rebelalliance": "X2PO/{revision}/rebelalliance.json",
-                "galacticempire": "X2PO/{revision}/galacticempire.json",
-                "scumandvillainy": "X2PO/{revision}/scumandvillainy.json",
-                "resistance": "X2PO/{revision}/resistance.json",
-                "firstorder": "X2PO/{revision}/firstorder.json",
-                "galacticrepublic": "X2PO/{revision}/galacticrepublic.json",
-                "separatistalliance": "X2PO/{revision}/separatistalliance.json",
-                "upgrades": "X2PO/{revision}/upgrades.json",
+                "rebelalliance": f"X2PO/{revision}/rebelalliance.json",
+                "galacticempire": f"X2PO/{revision}/galacticempire.json",
+                "scumandvillainy": f"X2PO/{revision}/scumandvillainy.json",
+                "resistance": f"X2PO/{revision}/resistance.json",
+                "firstorder": f"X2PO/{revision}/firstorder.json",
+                "galacticrepublic": f"X2PO/{revision}/galacticrepublic.json",
+                "separatistalliance": f"X2PO/{revision}/separatistalliance.json",
+                "upgrades": f"X2PO/{revision}/upgrades.json",
             },
-        },
+        }
     )
 
 
