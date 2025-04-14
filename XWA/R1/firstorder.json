@@ -1,6 +1,6 @@
 {
     "Gozanti-class Cruiser": {
-        "cerrafellian-sl": {
+        "cerrafellian-epicsl": {
             "name": "Cerra Fellian",
             "subtitle": "Malefactor",
             "limited": 1,
@@ -35,7 +35,7 @@
         }
     },
     "Raider-class Corvette": {
-        "gideonhask-sl": {
+        "gideonhask-epicsl": {
             "name": "Gideon Hask",
             "subtitle": "Precursor",
             "limited": 1,
