@@ -1,0 +1,16 @@
+{
+    "effective_date": "March 16, 2025",
+    "format": "BV5: Adds Epic to Doc",
+    "author": "The X-Wing Alliance",
+    "subject": "The X-Wing Alliance community point update for X-Wing the miniatures game",
+    "files": {
+        "rebelalliance": "XWA/BV5/rebelalliance.json", 
+        "galacticempire": "XWA/BV5/galacticempire.json", 
+        "scumandvillainy": "XWA/BV5/scumandvillainy.json",
+        "resistance": "XWA/BV5/resistance.json", 
+        "firstorder": "XWA/BV5/firstorder.json",
+        "galacticrepublic": "XWA/BV5/galacticrepublic.json",
+        "separatistalliance": "XWA/BV5/separatistalliance.json",
+        "upgrades": "XWA/BV5/upgrades.json"
+    }
+}
