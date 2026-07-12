@@ -1524,7 +1524,13 @@
     "standard": false,
     "extended": false,
     "epic": true,
-    "restrictions": [],
+    "restrictions": [
+      {
+        "ships": [
+          "croccruiser"
+        ]
+      }
+    ],
     "slots": [
       "Configuration"
     ],
