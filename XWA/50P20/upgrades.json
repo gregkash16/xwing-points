@@ -92,7 +92,7 @@
   },
   "r2d2-crew": {
     "name": "R2-D2",
-    "cost": 8,
+    "cost": 6,
     "limited": 1,
     "standard": true,
     "extended": true,
@@ -105,7 +105,7 @@
       }
     ],
     "slots": [
-      "Astromech"
+      "Crew"
     ],
     "restricted": 0
   },
@@ -1524,7 +1524,13 @@
     "standard": false,
     "extended": false,
     "epic": true,
-    "restrictions": [],
+    "restrictions": [
+      {
+        "ships": [
+          "croccruiser"
+        ]
+      }
+    ],
     "slots": [
       "Configuration"
     ],
@@ -2715,7 +2721,7 @@
   },
   "r2d2": {
     "name": "R2-D2",
-    "cost": 6,
+    "cost": 8,
     "limited": 1,
     "standard": true,
     "extended": true,
@@ -2728,7 +2734,7 @@
       }
     ],
     "slots": [
-      "Crew"
+      "Astromech"
     ],
     "restricted": 0
   },
