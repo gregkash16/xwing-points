@@ -1547,7 +1547,13 @@
         "standard": true,
         "wildspace": true,
         "epic": true,
-        "restrictions": [],
+        "restrictions": [
+            {
+                "ships": [
+                    "asf01bwing"
+                ]
+            }
+        ],
         "slots": [
             "Configuration"
         ]
@@ -1561,7 +1567,13 @@
         "standard": true,
         "wildspace": true,
         "epic": true,
-        "restrictions": [],
+        "restrictions": [
+            {
+                "ships": [
+                    "hmpdroidgunship"
+                ]
+            }
+        ],
         "slots": [
             "Configuration"
         ]
@@ -1575,7 +1587,13 @@
         "standard": true,
         "wildspace": true,
         "epic": true,
-        "restrictions": [],
+        "restrictions": [
+            {
+                "ships": [
+                    "nimbusclassvwing"
+                ]
+            }
+        ],
         "slots": [
             "Configuration"
         ]
@@ -1589,7 +1607,13 @@
         "standard": true,
         "wildspace": true,
         "epic": true,
-        "restrictions": [],
+        "restrictions": [
+            {
+                "ships": [
+                    "nimbusclassvwing"
+                ]
+            }
+        ],
         "slots": [
             "Configuration"
         ]
@@ -1603,7 +1627,13 @@
         "standard": true,
         "wildspace": true,
         "epic": true,
-        "restrictions": [],
+        "restrictions": [
+            {
+                "ships": [
+                    "droidtrifighter"
+                ]
+            }
+        ],
         "slots": [
             "Configuration"
         ]
@@ -1617,7 +1647,13 @@
         "standard": true,
         "wildspace": true,
         "epic": true,
-        "restrictions": [],
+        "restrictions": [
+            {
+                "ships": [
+                    "tierbheavy"
+                ]
+            }
+        ],
         "slots": [
             "Configuration"
         ]
@@ -1631,7 +1667,13 @@
         "standard": true,
         "wildspace": true,
         "epic": true,
-        "restrictions": [],
+        "restrictions": [
+            {
+                "ships": [
+                    "tierbheavy"
+                ]
+            }
+        ],
         "slots": [
             "Configuration"
         ]
