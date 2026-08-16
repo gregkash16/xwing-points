@@ -1,0 +1,16 @@
+{
+    "effective_date": "August 17, 2026",
+    "format": "50P2.1_20260817 ",
+    "author": "The X-Wing Alliance",
+    "subject": "The X-Wing Alliance community point update for X-Wing the miniatures game",
+    "files": {
+        "rebelalliance": "XWA/50P21/rebelalliance.json", 
+        "galacticempire": "XWA/50P21/galacticempire.json", 
+        "scumandvillainy": "XWA/50P21/scumandvillainy.json",
+        "resistance": "XWA/50P21/resistance.json", 
+        "firstorder": "XWA/50P21/firstorder.json",
+        "galacticrepublic": "XWA/50P21/galacticrepublic.json",
+        "separatistalliance": "XWA/50P21/separatistalliance.json",
+        "upgrades": "XWA/50P21/upgrades.json"
+    }
+}
